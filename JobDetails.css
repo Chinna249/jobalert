@@ -1,0 +1,20 @@
+#main{
+   height: 1000px;
+   width: 50%;
+   border: 1px inset black;
+   
+}
+#topmain{
+          height: 370px;
+          width: 50%;
+          
+
+}
+.table{
+    
+        border-collapse: separate;
+        border-spacing: 0;
+        border-width: 1px 0 0 1px;
+        margin: 0 0 1.5em;
+        width: 100%;
+    }
